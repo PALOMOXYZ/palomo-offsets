@@ -28,6 +28,5 @@
     "m_Glow": "0xCC0",
     "m_glowColorOverride": "0x40",
     "m_bGlowing": "0x51",
-    "m_bEligibleForScreenHighlight": "0x50",
-    "dwSceneSystem": "0x8433E0"
+    "m_bEligibleForScreenHighlight": "0x50"
 }
